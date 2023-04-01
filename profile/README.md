@@ -12,7 +12,7 @@ We encourage developers to contribute to our organization by submitting their id
 
 - Our site: [labhub.eu.org](https://labhub.eu.org)
 - Our recommended networking emulator: [PNetLab](https://pnetlab.com)
-- Our Telegram channel for updates: [t.me/unetlab_cloud](https://t.me/NetLabHub)
+- Our Telegram channel for updates: [@NetLabHub](https://t.me/NetLabHub)
 - Our Telegram group chat (Search the link in the channel and feel free to join!)
 
 Thank you for visiting our organization's profile, and we look forward to your contributions!
